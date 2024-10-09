@@ -4,7 +4,7 @@
 - **Paso 1: Clonar el repositorio.**
     - Abrir una terminal y ejecutar el siguiente comando para clonar el repositorio:
         ```sh
-        git clone https://github.com/usuario/taller-s3.git
+        git clone https://github.com/fernandosilvot/taller-s3.git
         ```
     - Navegar al directorio del repositorio clonado:
         ```sh
