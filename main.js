@@ -1,6 +1,5 @@
 import './style.css'
 
-// Simple form submission handler
 document.getElementById('contact-form').addEventListener('submit', function(event) {
   event.preventDefault();
   const name = document.getElementById('name').value;
@@ -8,12 +7,11 @@ document.getElementById('contact-form').addEventListener('submit', function(even
   const message = document.getElementById('message').value;
   
   console.log('Form submitted:', { name, email, message });
-  // Here you would typically send this data to a server
-  alert('Thank you for your message! We\'ll get back to you soon.');
+
+  alert('Gracias por tu mensaje! Nos pondremos en contacto contigo lo antes posible.');
   this.reset();
 });
 
-// Smooth scrolling for navigation links
 document.querySelectorAll('nav a').forEach(anchor => {
   anchor.addEventListener('click', function(e) {
     e.preventDefault();
