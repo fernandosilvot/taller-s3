@@ -1,4 +1,7 @@
 # Taller de S3
+> [!NOTE]
+>El repositorio "Simple" es mío, los otros son de [rajaprerak](https://github.com/rajaprerak/rajaprerak.github.io), [codewithsadee](https://github.com/codewithsadee/vcard-personal-portfolio), [Start Bootstrap](https://startbootstrap.com/theme/resume), y [bedimcode](https://github.com/bedimcode/responsive-portfolio-website-Alexa).
+
 
 ## 1. Clonar y Editar el Repositorio
 - **Paso 1: Clonar el repositorio.**
@@ -73,6 +76,3 @@
 - **Paso 8: Obtener la URL del bucket.**
     - Mostrar cómo encontrar la URL pública en la configuración del bucket de S3.
     - Probar accediendo a la página desde el navegador.
-
-> !.[NOTE].
->El repositorio "Simple" es mío, los otros son de [rajaprerak](https://github.com/rajaprerak/rajaprerak.github.io), [codewithsadee](https://github.com/codewithsadee/vcard-personal-portfolio), [Start Bootstrap](https://startbootstrap.com/theme/resume), y [bedimcode](https://github.com/bedimcode/responsive-portfolio-website-Alexa).
