@@ -67,7 +67,7 @@
     ]
 }
 ```
-    - Consejo: Explicar las implicaciones de la política y por qué es necesaria.
+>Consejo: Explicar las implicaciones de la política y por qué es necesaria.
 
 ## 7. Ver la Página en Vivo
 - **Paso 8: Obtener la URL del bucket.**
