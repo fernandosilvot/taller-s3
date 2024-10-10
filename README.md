@@ -4,18 +4,19 @@
 - **Paso 1: Clonar el repositorio.**
     - Abrir una terminal y ejecutar el siguiente comando para clonar el repositorio:
         ```sh
-        git clone https://github.com/usuario/taller-s3.git
+        git clone https://github.com/fernandosilvot/taller-s3.git
         ```
     - Navegar al directorio del repositorio clonado:
         ```sh
         cd taller-s3
         ```
-- **Paso 2: Editar los archivos del repositorio.**
+- **Paso 2: Seleccionar y editar un template.**
     - Abrir el proyecto en tu editor de código (por ejemplo, VSCode):
         ```sh
         code .
         ```
-    - Realizar las modificaciones necesarias en los archivos `index.html`, `style.css`, y `app.js`.
+    - Seleccionar un template para la página web. Se recomienda usar el template "simple" o "resume" para esta prueba.
+    - Realizar las modificaciones necesarias en los archivos del template seleccionado (`html`, `css`, y `js`).
     - Guardar los cambios y confirmar que todo funciona correctamente.
 
 ## 2. Creación del Bucket S3
@@ -73,3 +74,5 @@
     - Mostrar cómo encontrar la URL pública en la configuración del bucket de S3.
     - Probar accediendo a la página desde el navegador.
 
+> !.[NOTE].
+>El repositorio "Simple" es mío, los otros son de [rajaprerak](https://github.com/rajaprerak/rajaprerak.github.io), [codewithsadee](https://github.com/codewithsadee/vcard-personal-portfolio), [Start Bootstrap](https://startbootstrap.com/theme/resume), y [bedimcode](https://github.com/bedimcode/responsive-portfolio-website-Alexa).
